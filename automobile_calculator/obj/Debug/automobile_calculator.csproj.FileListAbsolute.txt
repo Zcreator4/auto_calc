@@ -1,0 +1,10 @@
+C:\Users\Zander\source\repos\automobile_calculator\automobile_calculator\bin\Debug\automobile_calculator.exe.config
+C:\Users\Zander\source\repos\automobile_calculator\automobile_calculator\bin\Debug\automobile_calculator.exe
+C:\Users\Zander\source\repos\automobile_calculator\automobile_calculator\bin\Debug\automobile_calculator.pdb
+C:\Users\Zander\source\repos\automobile_calculator\automobile_calculator\obj\Debug\automobile_calculator.csprojAssemblyReference.cache
+C:\Users\Zander\source\repos\automobile_calculator\automobile_calculator\obj\Debug\automobile_calculator.frmAutoCost.resources
+C:\Users\Zander\source\repos\automobile_calculator\automobile_calculator\obj\Debug\automobile_calculator.Properties.Resources.resources
+C:\Users\Zander\source\repos\automobile_calculator\automobile_calculator\obj\Debug\automobile_calculator.csproj.GenerateResource.cache
+C:\Users\Zander\source\repos\automobile_calculator\automobile_calculator\obj\Debug\automobile_calculator.csproj.CoreCompileInputs.cache
+C:\Users\Zander\source\repos\automobile_calculator\automobile_calculator\obj\Debug\automobile_calculator.exe
+C:\Users\Zander\source\repos\automobile_calculator\automobile_calculator\obj\Debug\automobile_calculator.pdb
